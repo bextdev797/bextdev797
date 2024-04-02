@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I Am Brandon Ang
+Feeling cool as an Extension Developer who develops a lot of Extensions for MIT App Inventor
 
-I Am The Creator Of BBot IDE and Currently As CEO & Head Developer
+Working on/busy on: BlackRaspberryLabel
 
-I Hope You Support On My Next Project
+Country i live in: Philippines
 
-NOTE: Now i am using offline extension builder for mit app inventor so use companion not apk only if you are using View2024, MalabonDay, FWT, DoggyMaths and my old extensions.
-
-Speciality: Making game extensions.
+Country i come from: China
