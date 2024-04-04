@@ -2,7 +2,7 @@
 
 Feeling cool as an Extension Developer who develops a lot of Extensions for MIT App Inventor
 
-Working on/busy on: Quote Gallery Extension
+Working on/busy on: Fancy Quotes Extension
 
 Country i live in: Philippines
 
