@@ -14,3 +14,5 @@ Projects:
 <a href="https://github.com/bextdev797/BBotIDE/releases/download/3.0.0/BBotIDESetupV3.msi">BBot IDE</a>
 
 Favorite Extension: PuzzleView by mahmoud_hooda that made me inspired to make View2024
+
+Some Of My Extensions uses MIT, GPL-3.0 & CC0-1.0 License so that means I allow them to distribute my extensions anytime anywhere.
