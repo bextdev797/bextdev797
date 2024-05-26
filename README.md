@@ -16,3 +16,5 @@ Projects:
 Favorite Extension: PuzzleView by mahmoud_hooda that made me inspired to make View2024
 
 Some Of My Extensions uses MIT, GPL-3.0 & CC0-1.0 License so that means I allow them to distribute my extensions anytime anywhere.
+
+1[image](https://github-readme-stats.vercel.app/api?username=bextdev797) ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=bextdev797)
