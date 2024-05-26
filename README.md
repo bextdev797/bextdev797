@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Feeling cool as an Extension Developer/CEO of Spellast/CEO of BBot who develops a lot of Extensions for MIT App Inventor 
+Feeling cool as an Extension Developer/CEO of BBot who develops a lot of Extensions for MIT App Inventor 
 
 Country i live in: Philippines
 
