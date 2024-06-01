@@ -12,6 +12,7 @@ Projects:
 <a href="https://github.com/theFuncTions/Functions/releases/download/1.1/com.brandonang.functions.aix">Functions</a>
 <a href="https://github.com/bextdev797/PromptedAI2/releases/download/1/PromptedAI2Setup.msi">PromptedAI2</a>
 <a href="https://github.com/bextdev797/BBotIDE/releases/download/3.0.0/BBotIDESetupV3.msi">BBot IDE</a>
+ProjectO
 
 Favorite Extension: PuzzleView by mahmoud_hooda that made me inspired to make View2024
 
