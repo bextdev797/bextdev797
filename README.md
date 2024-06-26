@@ -7,13 +7,13 @@ Country i live in: Philippines
 Country i come from: China
 
 Favorite Extension i made: 
-<a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.AI2Fix.aix">AI2Fix</a>
+<a href="https://github.com/bextdev797/AI2Fix/releases/download/1/com.bextdev.YourFix.aix">YourFix</a>
 <a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.HumanFaceCanvas.aix">HumanFaceCanvas</a>
 <a href="https://github.com/theFuncTions/Functions/releases/download/2.0/com.bextdev.FunctionsOctopus.aix">Functions</a>
 <a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.ObjectDrawer.aix">ObjectDrawer</a>
 
 Projects:
-<a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.AI2Fix.aix">AI2Fix</a>
+<a href="https://github.com/bextdev797/AI2Fix/releases/download/1/com.bextdev.YourFix.aix">YourFix</a>
 <a href="https://github.com/theFuncTions/Functions/releases/download/1.1/com.brandonang.functions.aix">Functions</a>
 <a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.HumanFaceCanvas.aix">HumanFaceCanvas</a>
 <a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.ObjectDrawer.aix">ObjectDrawer</a>
