@@ -9,7 +9,7 @@ Country i come from: China
 Favorite Extension i made: 
 <a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.AI2Fix.aix">AI2Fix</a>
 <a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.HumanFaceCanvas.aix">HumanFaceCanvas</a>
-<a href="https://github.com/theFuncTions/Functions/releases/download/1.1/com.brandonang.functions.aix">Functions</a>
+<a href="https://github.com/theFuncTions/Functions/releases/download/2.0/com.bextdev.functions.aix">Functions</a>
 <a href="https://github.com/bextdev797/BextdevProject/raw/main/PERSONAL_EXTENSIONS/com.bextdev.ObjectDrawer.aix">ObjectDrawer</a>
 
 Projects:
