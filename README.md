@@ -7,10 +7,10 @@ Country i live in: Philippines
 Country i come from: China
 
 Favorite Extension i made: 
-<a href="https://github.com/bextdev797/ComponentProperties/releases/download/1.1/com.bextdev.ComponentProperties.aix">ComponentProperties</a>
+IPropertoo
 
 Projects:
-<a href="https://github.com/bextdev797/ComponentProperties/releases/download/1.1/com.bextdev.ComponentProperties.aix">ComponentProperties</a>
+IPropertoo
 <a href="https://github.com/bextdev797/PromptedAI2/releases/download/1/PromptedAI2Setup.msi">PromptedAI2</a>
 <a href="https://github.com/bextdev797/BBotIDE/releases/download/3.0.0/BBotIDESetupV3.msi">BBot IDE</a>
 <a href="https://drive.google.com/uc=?export=download&id=19hUx6oUhKEO2AceEGi-aklZaTKRex7Db/">PostAIX</a>
