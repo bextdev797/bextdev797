@@ -4,7 +4,7 @@ Feeling cool as an Extension Developer/CEO of BBot who develops a lot of Extensi
 
 Country i live in: Philippines
 
-Country i come from: China
+Country i come from: Greece/Mongolia/China
 
 Favorite Extension i made: 
 IPropertoo
